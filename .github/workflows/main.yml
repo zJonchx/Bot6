@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: 🗑️ Limpiar directorio
+    - name: 🗑️ Limpiar directorioooo
       run: |
         rm -rf * 2>/dev/null || true
     
